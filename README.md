@@ -20,8 +20,8 @@
 ### Languages and Tools:
 
 * Visual Studio Code
-* HTML5  
-* CSS3
+* HTML  
+* CSS
 * JavaScript 
 * java
 
