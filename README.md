@@ -23,7 +23,10 @@
 * HTML  
 * CSS
 * JavaScript 
-* java
+* Core Java
+* python
+* c
+* c++
 
 <br />
 <br />
